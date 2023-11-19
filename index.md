@@ -34,7 +34,7 @@
    - Bash history: I use "history" command and up/down arrows to navigate to the `ssh cs15lfa23jz@ieng6.ucsd.edu` command when I wanted to log in my `ieng6` account. I also use `<Ctrl-R>` with `key word` to search and reuse the commands such as: `ssh -T git@github.com`, 
    - Using `up arrow` and `<ENTER>`: I used them a lot to navigate to the previous commands and reused them the reuse them.
    - Keyboard shotcuts while editing commands: I used `<Ctrl-E>` to navigate the cursor to the end of the line, `<Ctrl-A>` to navigate the cursor to the beginning of the line, I used `<Ctrl-U` to delete the line.
-   - Using tab: I use `tab` everytime I want to do a command with a file or a directory, by typing a couple first letters and press `<tab>` to display the rest of the name. Using tab is very convenient and useful to save time and avoid typo.
+   - Using `<tab>`: I use `tab` everytime I want to do a command with a file or a directory, by typing a couple first letters and press `<tab>` to display the rest of the name. Using `<tab>` is very convenient and useful to save time and avoid typo.
 
 
 
