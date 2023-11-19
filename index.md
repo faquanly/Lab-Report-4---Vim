@@ -1,5 +1,5 @@
 # Lab-Report-4-Vim
-### Emma Nguyen - PID A18021060
+- Emma Nguyen - PID A18021060
 
 1. Step 4: Log into ieng6
    - 
