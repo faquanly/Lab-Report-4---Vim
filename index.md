@@ -19,10 +19,13 @@
    - Keys pressed:
 1. Step 9: Commit and push the resulting change to your Github account (you can pick any commit message!)
    ![Commit and push ListExamples.java into gitHub](step9.png)
+   - Here is my listExamples.java file after pushing the update one.
    ![listExamples.java file after updating](step9-1.png)
    - Keys pressed:
 
-
+1. Summarize the commands I used:
+   - Bash history: I use "history" command and up/down arrows to navigate to the `ssh cs15lfa23jz@ieng6.ucsd.edu` command when I wanted to log in my `ieng6` account.
+   - Using Tab: I used this
 
 
 
