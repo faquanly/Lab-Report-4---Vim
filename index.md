@@ -31,10 +31,10 @@
    - Keys pressed: `<CTR-R>`, `git add`, `<ENTER>`, `<CTR-R>`, `ssh -T`, `<ENTER>`, `<CTR-R>`, `git commit`, `<ENTER>`, `git push`, `<ENTER>`. I used Ctrl-R to search `git add` command and reused the `git add ListExamples.java`. Then I pressed `<CTR-R>` and `ssh - T` to find the `ssh -T git@github.com` and run it again to check my connection. Now, I can run `git commit` and `git push` to push my updated `ListExample.java` to my repository in gitHub. 
 
 1. Summarize the commands I used:
-   - Bash history: I use "history" command and up/down arrows to navigate to the `ssh cs15lfa23jz@ieng6.ucsd.edu` command when I wanted to log in my `ieng6` account. I also use `<Ctrl-R>` with `key word` to search and reuse the commands such as: `ssh -T git@github.com`, 
+   - Bash history: I use "history" command and up/down arrows to navigate to the `ssh cs15lfa23jz@ieng6.ucsd.edu` command when I wanted to log in my `ieng6` account. I also use `<Ctrl-R>` with `key word` to search and reuse the commands such as: `ssh -T git@github.com`, `git add ListExamples.java`.
    - Using `up arrow` and `<ENTER>`: I used them a lot to navigate to the previous commands and reused them the reuse them.
    - Keyboard shotcuts while editing commands: I used `<Ctrl-E>` to navigate the cursor to the end of the line, `<Ctrl-A>` to navigate the cursor to the beginning of the line, I used `<Ctrl-U` to delete the line.
    - Using `<tab>`: I use `tab` everytime I want to do a command with a file or a directory, by typing a couple first letters and press `<tab>` to display the rest of the name. Using `<tab>` is very convenient and useful to save time and avoid typo.
-
+   - Vim editor: I used `i` and `<ESC>` to switch betweed the insert mode and normal mode in vim editor. Beside using `up`, `down`, `left`, `right` arrow to move the cursor around, I can also use `h`, `j`, `k`, `l` to move the cursor around without lift up my hand. I also used `<shift g>` to go to the end of file, use `u` to undo the tasks. After editing the file, I use `:wq` in normal mode to save file and quit vim.
 
 
