@@ -2,22 +2,23 @@
 - Emma Nguyen - PID A18021060
 
 1. Step 4: Log into ieng6
-   - 
+   - ![Log into my ieng6](step4-1.png)
    - Keys pressed: 
 1. Step 5: Clone your fork of the repository from your Github account (using the SSH URL)
-   - 
+   - ![clone my fork using `ssh URL`](step5.png)
    - Keys pressed: 
 1. Step 6: Run the tests, demonstrating that they fail
-   -
-   - Keys pressed: 
+   - ![run ListExamplesTests](step6.png)
+   - There is 1 failure when the test run.
+   - Keys pressed:
 1. Step 7: Edit the code file to fix the failing test
-   -
-   - Keys pressed: 
+   - ![ListExamples.java after being fixed](step7.png)
+   - Keys pressed: `<down><down><down><down><down><down><down><down>down><down><down><down><down><down><down><down><down>`,`<right><right><right><right><right><right><right><right><right><right><right>`, `<i>`, edit `<index 1>`, replace `1` by `2`, `<ESC>`, `<:wq>`, `<ENTER>`
 1. Step 8: Run the tests, demonstrating that they now succeed
-   -
+   -![run ListExamplesTest again after fixing the code](step8.png)
    - Keys pressed:
 1. Step 9: Commit and push the resulting change to your Github account (you can pick any commit message!)
-   -
+   -![Commit and push ListExamples.java into gitHub](step9.png)
    - Keys pressed:
 
 
