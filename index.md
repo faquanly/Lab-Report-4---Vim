@@ -8,12 +8,12 @@
 **1. Step 5: Clone your fork of the repository from your Github account (using the SSH URL)**
    ![clone my fork using `ssh URL`](step5.png)
    - I used `<CTR-R>` to search the clone command history with `ssh` key word, it showed up the `ssh git@github.com:faquanly/lab7.git` and ready for me to use by press `<enter>`.
-   - Keys pressed: `<CTR-R>`, `s`, `s`, `<enter>`, the `ssh git@github.com:faquanly/lab7.git` 
+   - Keys pressed: `<CTR-R>`, `s`, `s`, `<enter>`, the `ssh git@github.com:faquanly/lab7.git`.
 **1. Step 6: Run the tests, demonstrating that they fail**
    ![run ListExamplesTests](step6.png)
    - Working directory: /home/linux/ieng6/cs15lfa23/cs15lfa23jz/lab7.
    - Using `bash test.sh` command to run the test. There is 1 failure when the test run.
-   - Keys pressed: `<enter>` to run the `bash test.sh`
+   - Keys pressed: `<enter>` to run the `bash test.sh`.
 **1. Step 7: Edit the code file to fix the failing test**
    ![ListExamples.java after being fixed](step7.png)
    - Working directory: /home/linux/ieng6/cs15lfa23/cs15lfa23jz/lab7.
