@@ -6,7 +6,7 @@
    - I used history command to display the previous commands which is include the `ssh cs15lfa23jz@ieng6.ucsd.edu` to log in to my ieng6 account. Then I navigated to that command and reused it.
    - Keys pressed: `<up><up><up>`, `<enter>`, the `ssh cs15lfa23jz@ieng6.ucsd.edu` command was 3 up in the search history, so I used up arrow to access it.
 1. **Step 5: Clone your fork of the repository from your Github account (using the SSH URL)**
-   ![clone my fork using `ssh URL`](step5.png)
+   ![clone my fork using `ssh URL`](step5-1.png)
    - I used `<CTR-R>` to search the clone command history with `ssh` key word, it showed up the `ssh git@github.com:faquanly/lab7.git` and ready for me to use by press `<enter>`.
    - Keys pressed: `<CTR-R>`, `s`, `s`, `<enter>`, the `ssh git@github.com:faquanly/lab7.git`.
 1. **Step 6: Run the tests, demonstrating that they fail**
